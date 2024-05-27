@@ -1,2 +1,2 @@
-export FLASK_APP=prog_lang_app.py
+set FLASK_APP=prog_lang_app.py
 flask run

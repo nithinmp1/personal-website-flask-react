@@ -1,7 +1,7 @@
 import React from 'react';
 import './header.css';
 import profile_img from '../../assets/img/profile-img.jpg';
-
+import 'boxicons/css/boxicons.min.css';
 const Header = () => {
   return (
     <header id="header" className='header'>

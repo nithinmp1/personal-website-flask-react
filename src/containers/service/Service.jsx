@@ -2,6 +2,7 @@ import React from 'react';
 import './service.css';
 import axios from 'axios'; // Uncomment if using Axios
 import TemplateRenderer from './TemplateRenderer';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const Service = () => {
     return (
